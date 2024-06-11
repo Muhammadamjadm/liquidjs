@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "html-react-parser": "^0.4.7",
-    "liquidjs": "^10.8.3",
+    "html-react-parser": "^5.1.10",
+    "liquidjs": "^10.13.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-promise": "^2.0.3",
-    "react-scripts": "2.0.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
